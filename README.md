@@ -34,3 +34,7 @@ Open `notebooks/linear_regression.ipynb` in Jupyter or VS Code.
 - A single feature's predictive power has a "floor" — the model converges almost 
   immediately once it hits the best fit achievable with that one feature.
 - Learning rate selection involves a tradeoff between convergence speed and stability.
+- 
+
+## Main Purpose
+- Build linear regression from scratch to understand how gradient descent works because it is the foundation under every ML model.
